@@ -11,3 +11,7 @@ How it works?
 
 
 THIS IS SIMPLE AND MY FIRST PROGRAM USING PYTHON pyqrcode LIB.
+
+# Next Update:
+
+Deploy it with flask
